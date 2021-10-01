@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.logo-container {
+  display: flex;
+}
+
+.free {
+  color: red;
+}
